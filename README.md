@@ -7,3 +7,5 @@ Stitches 6 images of size 900x900 named sky_pos_x, sky_neg_y, etc. into one imag
 Output stitch format:<br>
 `| neg_y | pos_y | neg_z |`<br>
 `| neg_x | pos_z | pos_x |`
+
+Download the jar, put it in the folder with all 6 images to be stitched, then run it.
